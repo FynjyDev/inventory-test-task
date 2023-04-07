@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6dca95d8f885c428edb0c86081ae05, type: 3}
+  m_Name: Patrons_1
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 5db14f4887ad7f84a96cca78df37a035, type: 3}
+  count: 24
+  stackCount: 12
+  itemType: 0
+  itemName: Pistol Patrons
+  itemWeight: 0.01
+  patronsType: 0
